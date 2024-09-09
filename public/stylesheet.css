@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE';
+    src: url('MADEOkineSansPERSONALUSE-Bold.eot');
+    src: url('MADEOkineSansPERSONALUSE-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-Bold.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-Bold.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-Bold.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-Bold.svg#MADEOkineSansPERSONALUSE-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE Outline';
+    src: url('MADEOkineSansPERSONALUSE-BoldOutline.eot');
+    src: url('MADEOkineSansPERSONALUSE-BoldOutline.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-BoldOutline.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-BoldOutline.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-BoldOutline.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-BoldOutline.svg#MADEOkineSansPERSONALUSE-BoldOutline') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE';
+    src: url('MADEOkineSansPERSONALUSE-Black.eot');
+    src: url('MADEOkineSansPERSONALUSE-Black.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-Black.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-Black.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-Black.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-Black.svg#MADEOkineSansPERSONALUSE-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE Black Outline';
+    src: url('MADEOkineSansPERSONALUSE-BlackOutline.eot');
+    src: url('MADEOkineSansPERSONALUSE-BlackOutline.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-BlackOutline.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-BlackOutline.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-BlackOutline.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-BlackOutline.svg#MADEOkineSansPERSONALUSE-BlackOutline') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE';
+    src: url('MADEOkineSansPERSONALUSE-Medium.eot');
+    src: url('MADEOkineSansPERSONALUSE-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-Medium.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-Medium.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-Medium.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-Medium.svg#MADEOkineSansPERSONALUSE-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE Outline';
+    src: url('MADEOkineSansPERSONALUSE-RegularOutline.eot');
+    src: url('MADEOkineSansPERSONALUSE-RegularOutline.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-RegularOutline.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-RegularOutline.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-RegularOutline.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-RegularOutline.svg#MADEOkineSansPERSONALUSE-RegularOutline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE Light Outline';
+    src: url('MADEOkineSansPERSONALUSE-LightOutline.eot');
+    src: url('MADEOkineSansPERSONALUSE-LightOutline.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-LightOutline.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-LightOutline.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-LightOutline.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-LightOutline.svg#MADEOkineSansPERSONALUSE-LightOutline') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE';
+    src: url('MADEOkineSansPERSONALUSE-Regular.eot');
+    src: url('MADEOkineSansPERSONALUSE-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-Regular.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-Regular.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-Regular.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-Regular.svg#MADEOkineSansPERSONALUSE-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE Thin Outline';
+    src: url('MADEOkineSansPERSONALUSE-ThinOutline.eot');
+    src: url('MADEOkineSansPERSONALUSE-ThinOutline.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-ThinOutline.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-ThinOutline.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-ThinOutline.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-ThinOutline.svg#MADEOkineSansPERSONALUSE-ThinOutline') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE Medium Outline';
+    src: url('MADEOkineSansPERSONALUSE-MediumOutline.eot');
+    src: url('MADEOkineSansPERSONALUSE-MediumOutline.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-MediumOutline.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-MediumOutline.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-MediumOutline.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-MediumOutline.svg#MADEOkineSansPERSONALUSE-MediumOutline') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE';
+    src: url('MADEOkineSansPERSONALUSE-Thin.eot');
+    src: url('MADEOkineSansPERSONALUSE-Thin.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-Thin.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-Thin.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-Thin.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-Thin.svg#MADEOkineSansPERSONALUSE-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Okine Sans PERSONAL USE';
+    src: url('MADEOkineSansPERSONALUSE-Light.eot');
+    src: url('MADEOkineSansPERSONALUSE-Light.eot?#iefix') format('embedded-opentype'),
+        url('MADEOkineSansPERSONALUSE-Light.woff2') format('woff2'),
+        url('MADEOkineSansPERSONALUSE-Light.woff') format('woff'),
+        url('MADEOkineSansPERSONALUSE-Light.ttf') format('truetype'),
+        url('MADEOkineSansPERSONALUSE-Light.svg#MADEOkineSansPERSONALUSE-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
